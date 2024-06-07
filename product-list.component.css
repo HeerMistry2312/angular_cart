@@ -1,0 +1,8 @@
+.ecart--products--container {
+  margin: 10px auto;
+  display: flex;
+  flex-wrap: wrap;
+  padding: 20px 17vh;
+}
+
+
